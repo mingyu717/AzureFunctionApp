@@ -1,0 +1,13 @@
+AppointmentService/\.vs
+AppointmentService/AppointmentService/bin
+AppointmentService/AppointmentService/obj
+AppointmentService/Service\.Contract/bin/Debug/
+AppointmentService/Service\.Contract/obj/Debug/
+/AppointmentService/Service\.Contract/obj
+/AppointmentService/Service\.Contract/bin
+/AppointmentService/Service\.Implementation/obj
+/AppointmentService/Service\.Implementation/bin
+/AppointmentService/Service\.Tests/bin
+/AppointmentService/Service\.Tests/obj
+/AppointmentService/packages
+AppointmentService/.vs/AppointmentService/DesignTimeBuild/.dtbcache

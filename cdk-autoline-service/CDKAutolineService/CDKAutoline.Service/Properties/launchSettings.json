@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CDKAutoline.Service": {
+      "commandName": "Project",
+      "commandLineArgs": "host start -p 7074"
+    }
+  }
+}

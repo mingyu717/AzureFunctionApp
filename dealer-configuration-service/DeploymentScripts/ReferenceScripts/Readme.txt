@@ -1,0 +1,2 @@
+﻿Scripts in this folder "Reference Scripts" are used in an Octopus Deployment Template but can only be configured from inside the Octopus Step.
+This is just a backup folder to keep a copy of the scripts in source in the event we lose them from Octopus

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConfigurationManagerService": {
+      "commandName": "Project",
+      "commandLineArgs": "host start -p 7072"
+    }
+  }
+}

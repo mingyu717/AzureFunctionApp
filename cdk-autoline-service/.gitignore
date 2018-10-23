@@ -1,0 +1,15 @@
+
+CDKAutolineService/\.vs/CDKAutolineService/v15/
+
+CDKAutolineService/Service\.Contract/bin/Debug/
+
+CDKAutolineService/Service\.Contract/obj/Debug/
+/CDKAutolineService/Service.Contract/obj
+/CDKAutolineService/Service.Contract/bin
+/CDKAutolineService/Service.Implementation/obj
+/CDKAutolineService/Service.Implementation/bin
+/CDKAutolineService/Service.Tests/bin
+/CDKAutolineService/Service.Tests/obj
+/CDKAutolineService/packages
+CDKAutolineService/.vs/CDKAutolineService/DesignTimeBuild/.dtbcache
+/.vs

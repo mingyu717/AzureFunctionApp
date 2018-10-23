@@ -1,0 +1,10 @@
+VehicleMaintenanceService/\.vs
+VehicleMaintenanceService/Service\.Contract/obj
+VehicleMaintenanceService/Service\.Contract/bin
+VehicleMaintenanceService/Service\.Tests/obj
+VehicleMaintenanceService/Service\.Tests/bin
+VehicleMaintenanceService/packages
+VehicleMaintenanceService/VehicleMaintenanceService/obj/
+VehicleMaintenanceService/VehicleMaintenanceService/bin/
+VehicleMaintenanceService/Service\.Implemention/bin/Debug/
+VehicleMaintenanceService/Service\.Implemention/obj/Debug/

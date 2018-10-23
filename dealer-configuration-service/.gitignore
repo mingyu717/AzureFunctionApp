@@ -1,0 +1,10 @@
+/.vs
+/Service.Contract/obj
+/Service.Contract/bin
+/Service.Implementation/obj
+/Service.Implementation/bin
+/Service.Test/obj
+/Service.Test/bin
+/packages
+ConfigurationManagerService/obj/
+ConfigurationManagerService/bin/

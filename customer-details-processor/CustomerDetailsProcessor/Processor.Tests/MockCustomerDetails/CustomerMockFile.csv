@@ -1,0 +1,7 @@
+Vehicle.number,Customer.number,"Branch(buy,stk,sel(1)",Title,First.name,Surname,Company.name,E-mail.address,Telephone.numbers(4),Aftersales.Branch,Franchise,Make.Code,Variant.Code,Model.year,Model.code,New./.Used,Description,Registration.number.,Chassis.number,Last.service.date,Last.known.mileage,Next.service.date,Next.service.mileage
+188562,132525,EUR,Mr,Romualdo,Valer,,Romualdo.Valer@mail.com,21111111,EUR,W,TIGUAN,VariantCode1,2013,TIGUAN,U,VW Tiguan 103KW TDI 7DSG,JYF113,WVGZZZ5NZDW025176,6/02/2017,74700,6/01/2018,89700
+200433,119005,EUR,Mrs,Leslie,Peake,,Leslie.Peake@mail.com,,EUR,W,TIGUAN,VariantCode2,2014,TIGUAN,N,VW Tiguan TSI 2WD,HKK253,WVGZZZ5NZEW031527,6/01/2017,0,6/01/2018,0
+202881,119929,EUR,Mr,Simon,Nathan,Fire Security Services,Simon.Nathan@mail.com,21333333,EUR,W,TOUAREG,VariantCode3,2014,TOUAREG,N,VW Touareg TDI 150kW BMT,HQM929,WVGZZZ7PZED052746,12/05/2017,121135,6/01/2018,128658
+220457,131692,EUR,,Barbara,Howlett,,,21444444,EUR,W,AMAROK,VariantCode4,2016,AMAROK,N,VW Amarok DC 4M 420Nm TL Auto,KBU874,WV1ZZZ2HZGA023293,6/01/2017,18651,6/01/2018,38651
+221053,648981,EUR,Mr,Simon,Briggs,,Simon.Briggs@mail.com,21555555,EUR,W,GOLF,VariantCode5,2016,GOLF,U,VW Golf TSI 110kW HL DSG,KBN607,WVWZZZAUZHW003241,--/--/--,14050,6/01/2018,29050
+183994,106641,EUR,Ms,Sandra,Smits,,Sandra.Smits@mail.com,21666666,EUR,W,TIGUAN,VariantCode6,2012,TIGUAN,N,VW Tiguan 103KW TDI Auto,GJL921,WVGZZZ5NZCW078186,11/07/2017,121307,6/02/2018,136307

@@ -1,0 +1,10 @@
+[*]
+end_of_line = crlf
+
+[*.cs]
+trim_trailing_whitespace = true
+
+# 2 space indentation
+[*]
+indent_style = space
+indent_size = 4
